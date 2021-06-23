@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Lee(Oh)-JuHee [1997.11.16 ~ ]
-- 👀 I’m interested in Climate Science, Environmental Science, Sustainable Development and Causal Inference
+- 👀 I’m interested in Climate Science, Environmental Science and Causal Inference with which we could make a better choice.
 
 - 🌱 Undergraduate [2016.03 ~ 2020.02, Seoul National University] 
 -  (1) (major/COLLEGE OF NATURAL SCIENCES) Earth and Environmental Science especially concentrating on meteorology/modeling(), 
--  (2) (major/COLLEGE OF AGRICULTURE AND LIFE SCIENCES) Environmental Management mostly focused on ecology/conservation biology, 
+-  (2) (major/COLLEGE OF AGRICULTURE AND LIFE SCIENCES) Environmental Management mostly focused on ecology/conservation biology/sustainable development, 
 -  (2.5) (minor/COLLEGE OF NATURAL SCIENCES) Mathematics
 - 🌱 Master of Science [2020.03 ~ (2022.02), Seoul National University]
 -  Participating in research about data-based ecosystem modeling.
